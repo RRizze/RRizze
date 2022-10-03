@@ -4,7 +4,7 @@
 #### Full-Stack dev. 🦎
 
 - ⌨️ What I use: Ruby, Rails, Lua, JavaScript, TypeScript, C++.
-- 🍀 What I like: Linux, window managers, algorithms, fixing bugs.
+- 🍀 What I like: Linux, window managers, algorithms, fixing bugs, video games, Berserk.
 - 📫 How to reach me: b4dm3t@gmail.com
 
 <!---
