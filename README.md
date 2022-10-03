@@ -1,4 +1,4 @@
-<p align="left"><img src="https://media3.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47gnw28cavmccddgao1rk7rsgvin51al6fd10cupq9&rid=giphy.gif&ct=g" /></p>
+<p align="left"><img src="https://github.com/RRizze/RRizze/blob/main/ht.gif" /></p>
 
 ### ❄️ I’m @RRizze. 
 #### Full-Stack dev. 🦎
