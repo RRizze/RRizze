@@ -1,10 +1,9 @@
 <p align="left"><img src="https://github.com/RRizze/RRizze/blob/main/ht.gif" /></p>
 
-### ❄️ I’m @RRizze. 
-#### Full-Stack dev. 🦎
+#### Full-Stack and Game dev. 🦎
 
-- ⌨️ What I use: Ruby, Rails, Lua, JavaScript, TypeScript, C++.
-- 🍀 What I like: Linux, window managers, algorithms, fixing bugs, video games, Berserk.
+- ⌨️ What I use: C++, Lua, JavaScript, TypeScript, Ruby.
+- 🍀 What I like: Linux, window managers, algorithms, programming languages, video games.
 - 📫 How to reach me: b4dm3t@gmail.com
 
 <!---
